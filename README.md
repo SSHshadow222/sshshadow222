@@ -5,7 +5,6 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />  
     <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,redux,jquery,sass,bootstrap" />
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
   </a>
 </p>
 
