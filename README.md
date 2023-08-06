@@ -1,5 +1,17 @@
-# Hi 👋, I'm SSHshadow2222 🐱‍👤 
+# Hi 👋 I'm SSHshadow2222 🐱‍👤 
 
+### Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />  
+    <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,redux,jquery,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,postgresql" />
+  </a>
+</p>
+
+<hr>
+
+### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark)
 
