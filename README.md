@@ -3,8 +3,8 @@
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,php,cpp" />  
-    <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,redux,jquery,sass,bootstrap" />
+    <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp" />  
+    <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,jquery,sass,bootstrap" />
   </a>
 </p>
 
