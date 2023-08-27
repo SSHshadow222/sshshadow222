@@ -1,9 +1,9 @@
-# Hi 👋 I'm SSHshadow2222 🐱‍👤 
+# Hi 👋 I'm Shadow 🐱‍👤 
 
 ### Skills
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp" />  
+    <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />  
     <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,jquery,sass,bootstrap" />
   </a>
 </p>
