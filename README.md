@@ -1,4 +1,4 @@
-# Hi 👋 I'm Shadow 🐱‍👤 
+# Hi 👋 I'm Shadow 👤
 
 ### Skills
 <p>
