@@ -2,13 +2,29 @@
 
 ### Skills
 <p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,javascript,python,cpp" />  
-    <img src="https://skillicons.dev/icons?i=django,spring,html,css,react,jquery,sass,bootstrap" />
-  </a>
+  <ul>
+    <li>
+      <p>Programming Languages</p>
+      <div><img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,cpp" /></div>
+    </li>
+    <li>
+      <p>Frameworks and Libraries</p>
+      <div><img src="https://skillicons.dev/icons?i=spring,django,react,nodejs" /></div>
+    </li>
+    <li>
+      <p>Tools</p>
+      <div><img src="https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github,selenium" /></div>
+    </li>
+    <li>
+      <p>Technologies</p>
+      <div><img src="https://skillicons.dev/icons?i=git,aws,arduino" /></div>
+    </li>
+    <li>
+      <p>Operating Systems</p>
+      <div><img src="https://skillicons.dev/icons?i=apple,ubuntu,kali,windows" /></div>
+    </li>
+  </ul>
 </p>
-
-<hr>
 
 ### GitHub Stats
 
