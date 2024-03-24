@@ -25,6 +25,10 @@
   ![tools](https://skillicons.dev/icons?i=apple,ubuntu,kali,windows)
 
 
+### LeetCode Stats
+
+![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?cache=0)
+
 ### GitHub Stats
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=sshshadow222&theme=dark)
