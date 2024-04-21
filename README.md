@@ -1,4 +1,4 @@
-# Hi 👋 I'm Vlad 👤
+# 👋 Hi! I'm Vlad.
 
 ### Skills
 
@@ -27,7 +27,7 @@
 
 ### LeetCode Stats
 
-![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?cache=0)
+![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0)
 
 ### GitHub Stats
 
