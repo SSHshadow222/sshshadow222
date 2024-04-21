@@ -24,10 +24,9 @@
 
   ![tools](https://skillicons.dev/icons?i=apple,ubuntu,kali,windows)
 
-
 ### LeetCode Stats
 
-![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0)
+[![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0)](https://leetcode.com/SSHshadow2222)
 
 ### GitHub Stats
 
