@@ -12,7 +12,7 @@
 
 - Tools
 
-  ![tools](https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github,selenium)
+  ![tools](https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github)
 
 
 - Technologies
