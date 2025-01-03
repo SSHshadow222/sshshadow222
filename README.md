@@ -30,6 +30,4 @@
 
 ### GitHub Stats
 
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=sshshadow222&theme=dark)
-
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark)
