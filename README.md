@@ -18,7 +18,7 @@
         <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,cpp" alt="Programming Languages" />
       </td>
       <td align="center" valign="middle">
-        <img src="https://skillicons.dev/icons?i=spring,django,react,nodejs" alt="Frameworks &amp; Libraries" />
+        <img src="https://skillicons.dev/icons?i=spring,django,react,nodejs" alt="Frameworks & Libraries" />
       </td>
       <td align="center" valign="middle">
         <img src="https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github" alt="Tools" />
@@ -45,12 +45,20 @@
   <tbody>
     <tr>
       <td align="center" valign="middle">
-        <a href="https://leetcode.com/SSHshadow2222" target="_blank" rel="noopener noreferrer">
-          <img src="https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0" alt="leetcode-stats">
+        <a href="https://leetcode.com/SSHshadow2222">
+          <picture>
+            <source srcset="https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0" media="(prefers-color-scheme: dark)">
+            <source srcset="https://leetcard.jacoblin.cool/SSHshadow2222?theme=light&font=arial&cache=0" media="(prefers-color-scheme: light)">
+            <img src="https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0" alt="LeetCode Stats" />
+          </picture>
         </a>
       </td>
       <td align="center" valign="middle">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark" alt="most-used-languages">
+        <picture>
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark" media="(prefers-color-scheme: dark)">
+          <source srcset="https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=default" media="(prefers-color-scheme: light)">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark" alt="Most Used Languages" />
+        </picture>
       </td>
     </tr>
   </tbody>
@@ -65,8 +73,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" valign="middle">
-        <img src="https://s3.amazonaws.com/cdn.fanduel.com/images/2023/fanduel/homepage/facelift/fanduel-logo-hrz-white.svg" alt="FanDuel" />
+      <td>
+        <picture>
+          <source srcset="https://s3.amazonaws.com/cdn.fanduel.com/images/2023/fanduel/homepage/facelift/fanduel-logo-hrz-white.svg" media="(prefers-color-scheme: dark)">
+          <source srcset="?" media="(prefers-color-scheme: light)">
+          <img src="https://s3.amazonaws.com/cdn.fanduel.com/images/2023/fanduel/homepage/facelift/fanduel-logo-hrz-black.svg" alt="FanDuel Logo">
+        </picture>
       </td>
       <td align="center" valign="middle"><a href="https://github.com/fanduel-shadow">@fanduel-shadow</a></td>
     </tr>
