@@ -31,3 +31,7 @@
 ### GitHub Stats
 
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark)
+
+### Other GitHub Accounts
+
+- FanDuel: [@fanduel-shadow](https://github.com/fanduel-shadow)
