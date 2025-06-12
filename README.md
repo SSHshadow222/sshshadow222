@@ -1,37 +1,74 @@
-# Hi! I'm Vlad.
+<h1>Hi! I'm Vlad</h1>
 
-### Skills
+<h3>Technical Skills</h2>
 
-- Programming Languages
+<table>
+  <thead>
+    <tr>
+      <th scope="col" align="center" valign="middle">Programming Languages</th>
+      <th scope="col" align="center" valign="middle">Frameworks &amp; Libraries</th>
+      <th scope="col" align="center" valign="middle">Tools</th>
+      <th scope="col" align="center" valign="middle">Technologies</th>
+      <th scope="col" align="center" valign="middle">Operating Systems</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=kotlin,java,python,javascript,cpp" alt="Programming Languages" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=spring,django,react,nodejs" alt="Frameworks &amp; Libraries" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github" alt="Tools" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=git,aws,arduino" alt="Technologies" />
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://skillicons.dev/icons?i=apple,ubuntu,kali,windows" alt="Operating Systems" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  ![programming-languages](https://skillicons.dev/icons?i=kotlin,java,python,javascript,cpp)
+<h3>Coding Stats</h2>
 
-- Frameworks and Libraries
+<table>
+  <thead>
+    <tr>
+      <th scope="col" align="center" valign="middle">LeetCode</th>
+      <th scope="col" align="center" valign="middle">GitHub</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <a href="https://leetcode.com/SSHshadow2222" target="_blank" rel="noopener noreferrer">
+          <img src="https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0" alt="leetcode-stats">
+        </a>
+      </td>
+      <td align="center" valign="middle">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark" alt="most-used-languages">
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-  ![frameworks-and-libraries](https://skillicons.dev/icons?i=spring,django,react,nodejs)
+<h3>Work GitHub Accounts</h2>
 
-- Tools
-
-  ![tools](https://skillicons.dev/icons?i=vim,vscode,idea,androidstudio,github)
-
-
-- Technologies
-
-  ![technologies](https://skillicons.dev/icons?i=git,aws,arduino)
-  
-
-- Operating Systems
-
-  ![tools](https://skillicons.dev/icons?i=apple,ubuntu,kali,windows)
-
-### LeetCode Stats
-
-[![leetcode-stats](https://leetcard.jacoblin.cool/SSHshadow2222?theme=dark&font=arial&cache=0)](https://leetcode.com/SSHshadow2222)
-
-### GitHub Stats
-
-![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs?username=sshshadow222&show_icons=true&locale=en&layout=compact&theme=dark)
-
-### Other GitHub Accounts
-
-- FanDuel: [@fanduel-shadow](https://github.com/fanduel-shadow)
+<table>
+  <thead>
+    <th scope="col" align="center" valign="middle">Company</th>
+    <th scope="col" align="center" valign="middle">Account</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" valign="middle">
+        <img src="https://s3.amazonaws.com/cdn.fanduel.com/images/2023/fanduel/homepage/facelift/fanduel-logo-hrz-white.svg" alt="FanDuel" />
+      </td>
+      <td align="center" valign="middle"><a href="https://github.com/fanduel-shadow">@fanduel-shadow</a></td>
+    </tr>
+  </tbody>
+</table>
